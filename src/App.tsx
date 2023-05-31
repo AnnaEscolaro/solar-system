@@ -8,7 +8,6 @@ function App() {
     <>
       <Header />
       <SolarSystem />
-      <PlanetCard planetName="string" planetImage="string" />
     </>
   );
 }

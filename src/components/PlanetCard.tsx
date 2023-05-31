@@ -1,6 +1,4 @@
 import React from 'react';
-import Planets from '../data/planets';
-// import planets from '../data/planets';
 
 type PlanetName = {
   planetName: string;
